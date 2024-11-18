@@ -1,0 +1,15 @@
+CREAR 
+
+python -m venv .venv
+
+ACTIVAR
+
+win :   .\venv\Scripts\activate
+
+
+LINUX : source venv/bin/activate
+
+
+Guardar dependencias:
+
+pip freeze > requirements.txt
