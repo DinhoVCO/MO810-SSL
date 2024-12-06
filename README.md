@@ -1,4 +1,26 @@
-# MO810-SSL (Introdu ̧c ̃ao ao Aprendizado Auto-Supervisionado)
+# **Enhancing the Search for Scientific Articles: An Embedding Fine-Tuning Approach for Efficient Retrieval**
+
+**Course:** MC959/MO810 – Topics in Artificial Intelligence (Introduction to Self-Supervised Learning)
+
+**Teacher:** Dr. Marcelo da Silva Reis
+
+**Authors:**
+
+- **Luis F. Solis Navarro**  
+  Email 📧: [l214616@dac.unicamp.br](mailto:l214616@dac.unicamp.br)  
+  RA: 214616
+
+- **Ronaldinho Vega Centeno Olivera**  
+  Email 📧: [r183585@dac.unicamp.br](mailto:r183585@dac.unicamp.br)  
+  RA: 183585
+
+- **Gabriel Ukstin Talasso**  
+  Email 📧: [g2350785@dac.unicamp.br](mailto:g2350785@dac.unicamp.br)  
+  RA: 235078
+
+- **Alexander Puma Pucho**  
+  Email 📧: [a259936@dac.unicamp.br](mailto:a259936@dac.unicamp.br)  
+  RA: 259936
 
 
 # Methodology
